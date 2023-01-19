@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbookpro/Desktop/code/build/google_maps_flutter_android/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-3/bf225f3ba2d3a04da95c2791f6cdeb75/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/code/build/google_maps_flutter_android/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-3/bf225f3ba2d3a04da95c2791f6cdeb75/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Desktop/code/build/google_maps_flutter_android/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-3/bf225f3ba2d3a04da95c2791f6cdeb75/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

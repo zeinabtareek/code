@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">753422497532-ir5k7pgh86o0inti71uvnc0rbpofiklt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://balloonzup-541cc-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">753422497532</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmcm3iNRgW1H0NtIiFAHub2TZcjx27pYg</string>
+    <string name="google_app_id" translatable="false">1:753422497532:android:9c9108b8cb621c6449c979</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmcm3iNRgW1H0NtIiFAHub2TZcjx27pYg</string>
+    <string name="google_storage_bucket" translatable="false">balloonzup-541cc.appspot.com</string>
+    <string name="project_id" translatable="false">balloonzup-541cc</string>
+</resources>
